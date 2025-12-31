@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "プシ",
+  "base_artist": "r-906",
+  "createdAt": "2025-12-31T13:39:16.587297Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プシ",
+      "artist": "r-906 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_プシ_r-906_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プシ (feat. 初音ミク)",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/02_プシ_(feat._初音ミク)_r-906.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プシ / r-906 feat.初音ミク",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/03_プシ___r-906_feat.初音ミク_r-906.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プシ",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/04_プシ_r-906.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プシ (feat. Hatsune Miku)",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/05_プシ_(feat._Hatsune_Miku)_r-906.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プシ (feat. 初音ミク)",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_プシ_(feat._初音ミク)_r-906.txt"
+    }
+  ]
+}
